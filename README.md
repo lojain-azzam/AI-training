@@ -1,2 +1,2 @@
-# AI-training-
-Training with PalSof in AI track 
+# AI-training
+Training with PalSof in AI track(computer vision)
